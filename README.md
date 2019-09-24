@@ -45,7 +45,7 @@ Apache Spark? 是一个快速的，用于海量数据处理的通用引擎。
 
 > 第二期 (2018-12-05)
 
-* [@wangyangting](https://github.com/wangyangting)（那伊抹微笑）
+* [@LinHuiCN](https://github.com/Linbuyue)
 * [@jiangzhonglian](https://github.com/jiangzhonglian)（片刻）
 * [@chenyyx](https://github.com/chenyyx)（Joy yx）
 * [@XiaoLiz](https://github.com/XiaoLiz)（VoLi）
@@ -84,7 +84,3 @@ Apache Spark? 是一个快速的，用于海量数据处理的通用引擎。
 ## License
 
 GPL-3.0 © [ApacheCN](https://github.com/apachecn)
-
-## 赞助我们
-
-<img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
